@@ -1,0 +1,16 @@
+Return-Path: attacker@paypa1.com
+Received: from unknown-host (192.168.1.10)
+SPF: Fail
+DKIM: None
+
+Dear Customer,
+
+Your bank account has been suspended.
+
+Click here immediately:
+http://paypa1-login-security.com
+
+Verify your account within 24 hours or your account will be permanently locked.
+
+Regards,
+Support Team
